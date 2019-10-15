@@ -31,7 +31,8 @@ class Main extends React.Component {
           <p><a href="https://mofa188.com" target="_blank">Aladdin</a>: Ecommerce website which can help customers create their own retail website and sell products.</p>
           <p><a href="https://imaster.co.nz" target="_blank">IMASTER</a>: Online booking website which can help trainer explore their class and trainee access the classes they are interested in.</p>
           <p><a href="https://trendsideas.com" target="_blank">Trends</a>: Online magazine website for the Publishing company.</p>
-          <p>: </p>
+          <p><a href="http://burger.sean-xu.com" target="_blank">Burger Builder</a>: Self project for react.</p>
+          <p><a href="http://node1.sean-xu.com" target="_blank">Online Shop</a>: Self project for node.js.</p>
           {close}
         </article>
 
